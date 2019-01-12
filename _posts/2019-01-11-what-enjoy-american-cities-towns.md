@@ -21,9 +21,10 @@ Desde esta asombrosa diversidad, puedo experimentar los muchos gustos que hacen 
 <!--I specifically enjoy the urbanization offered in American cities. I like to travel to big American cities to visit, not to live there.-->
 Disfruto específicamente de la urbanización que ofrecen las ciudades americanas. Me gusta viajar a las grandes ciudades estadounidenses para visitar, no para vivir allí.
 
-![Pixabay Image of a Road](https://cdn.pixabay.com/photo/2017/09/27/13/05/road-2792014_960_720.jpg)
+![Image of a quiet suburban road](https://upload.wikimedia.org/wikipedia/commons/0/0f/Northbound_Main_St%2C_Hampstead%2C_Maryland.jpg)
 <!--I enjoy the suburban towns in America, that are not too rural and not too urbanized.-->
 Disfruto de las ciudades suburbanas en América, que no son demasiado rurales ni urbanizadas.
 
+![Collage of Landmarks in New York]({{site.baseurl}}/assets/images/new-york-1491106_1920.jpg)
 <!--And those are only some reasons of why I enjoy American cities and towns!-->
 ¡Y esas son solo algunas de las razones por las que disfruto de las ciudades y pueblos estadounidenses!
