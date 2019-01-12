@@ -5,6 +5,11 @@ date:   2019-01-11
 permalink: /que-me-gusta-ciudades-pueblos-eu
 ---
 
+<!--
+Essential Question:
+What do I enjoy about American cities and towns?
+-->
+
 ![American city](https://upload.wikimedia.org/wikipedia/commons/b/b7/Wilshire_Boulevard_towards_Beverly_Hills.jpg)
 <!--I enjoy a lot about American cities and towns.-->
 Disfruto mucho de las ciudades y pueblos americanos.
